@@ -8,31 +8,31 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Ginto Mathew
-  tagline: Technology Operations Specialist
+  name: Alan Doe
+  tagline: Full Stack Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: ginto.t.mathew@gmail.com
-  phone: 07970 222 262
-  timezone: London/Dublin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: British
-  #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: https://www.linkedin.com/in/ginto/
-  #xing: alandoe
-  #github: jekyll
-  #telegram: # add your nickname without '@' sign
-  #gitlab:
-  #bitbucket:
-  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  #twitter: '@jekyllrb'
-  #stack-overflow: # Number/Username, e.g. 123456/alandoe
-  #codewars:
-  #goodreads: # Number-Username, e.g. 123456-alandoe
-  #mastodon: # Please include your full Mastodon link here.
-  #hackerrank: # Please provide your HackerRank username.
-  #leetcode: # Please provide your LeetCode username.
-  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: example@email.com
+  phone: 012 345 6789
+  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship:
+  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: alandoe
+  xing: alandoe
+  github: jekyll
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  twitter: '@jekyllrb'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
@@ -64,14 +64,19 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Technology leader with over 20 years of expertise in Service Delivery, Operational Resiliency, and Project Management across the Fintech and E-commerce sectors in global organisations.
+    Summarise your career here lorem ipsum dolor sit amet, consectetuer
+    adipiscing elit. You can [download this free resume/CV template here]().
+    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    Donec quam felis, ultricies nec, pellentesque eu.
+    Second paragraph if required.
 education:
   title: Education
   info:
-  - degree: MBA
-    university: Heriot-Watt University
-    #time: 2011 - 2012
-    #details: |
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
+    details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -79,10 +84,10 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: Bachelor of Technology
-    university: University of Calicut
-    #time: 2007 - 2011
-    #details: |
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
+    details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
