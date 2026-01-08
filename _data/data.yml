@@ -46,18 +46,18 @@ sidebar:
     #- idiom: Hindi
       level: Professional
 
-  #interests:
+  interests:
     title: Interests
     info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
+    - item: Reading
       link:
 
 
     - item: Cooking
+      link:
+
+
+    #- item: Cooking
       link:
 
 
