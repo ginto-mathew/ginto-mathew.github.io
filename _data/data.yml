@@ -43,23 +43,14 @@ sidebar:
     - idiom: French
       level: Beginner
 
-    #- idiom: Hindi
-      level: Professional
-
   interests:
     title: Interests
     info:
     - item: Reading
       link:
 
-
     - item: Cooking
       link:
-
-
-    #- item: Cooking
-      link:
-
 
 career-profile:
   title: Career Profile
