@@ -34,7 +34,7 @@ sidebar:
   #leetcode: # Please provide your LeetCode username.
   #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  languages:
+  #languages:
     title: Languages
     info:
     - idiom: English
@@ -43,7 +43,7 @@ sidebar:
     - idiom: French
       level: Beginner
 
-  interests:
+  #interests:
     title: Interests
     info:
     - item: Reading
@@ -55,19 +55,14 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Technology leader with over 20 years of expertise in Service Delivery, Operational Resiliency, and Project Management across the Fintech and E-commerce sectors in global organisations.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
+  - degree: Fintech Program
+    university: Saïd Business School, University of Oxford
+    #time: 2011 - 2012
+    #details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -75,10 +70,10 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
+  - degree: MBA
+    university: Edinburgh Business School, Heriot-Watt University
+    #time: 2007 - 2011
+    #details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -86,7 +81,17 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-
+  - degree: Bachelor of Technology, Electrical & Electronics Engineering
+    university: University of Calicut
+    #time: 2007 - 2011
+    #details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
 experiences:
   title: Experiences
   info:
