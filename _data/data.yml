@@ -67,14 +67,21 @@ experiences:
           - Managed Business Intelligence (BI) and MI reporting, delivering actionable insights to stakeholders, including C-level executives.
     - role: DevOps Delivery Manager
       time: 2012 - 2018
-      company: Watford, London
+      company: Wundermann Commerce, Watford
       details: |
           - Provided consultancy services and successfully managed programs/projects for retail and e-commerce clients across Europe and North America, with a focus on IT infrastructure.
           - Delivered measurable results, including the design, build, and transition of 53 brand websites for a major global retailer, and led multi-million-pound platform upgrades and hosting migrations.
           - Implemented mission-critical e-commerce projects, enhanced infrastructure capacity, and ensured PCI-DSS compliance.
           - Spearheaded migrations to cloud-based platforms (AWS) and conducted disaster recovery tests with zero downtime for two of UK's biggest grocery/retail chains.
-
-
+    - role: Bank Service Delivery Manager
+      time: 2010 - 2012
+      company: Virgin Money, London
+      details: |
+          - Delivered several Build-the-Bank projects such as secure web-channel implementations, SWIFT payment gateway and HSM implementations, BoE enquiry link (RTGS), BACS, Faster Payment, and card payment/settlement implementations and testing. 
+          - Designated SWIFT security officer for the Hardware Security Modules.
+          - Delivered IT service continuity initiatives such as High Availability (HA) and Disaster Recovery (DR)Ensured effective risk management and control of operational processes, application software and infrastructure changes.
+          - Managed the applications Management Services (AMS) for the bank’s IT systems, including the development of operational procedures and key performance indicators (KPIs).
+          - Managed 3rd party supplier performance Improvements: Drove cost savings and efficiency improvements via offshoring and near-shoring IT operations.
 certifications:
   title: Certifications
   list:
@@ -85,7 +92,7 @@ certifications:
       credentialid: 192767
     - name: ITIL® Foundation
       start: 2025
-      end: 2028
+      end: null
       organization: PeopleCert
       credentialid: GR671800360GT
     - name: Digital Transformation with Google Cloud
@@ -103,40 +110,12 @@ certifications:
       organization: Microsoft
     - name: AWS Certified Cloud Practitioner
       start: 2022
-      end: 2026
+      end: null
       organization: Amazon
     - name: FinOps Practitioner
       start: 2023
-      end: 2025
+      end: null
       organization: FinOps Foundation
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum
-    fringilla a eu lectus.
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: A responsive website template designed to help startups promote, market
-        and sell their products.
-    - title: DevStudio
-      link: "#"
-      tagline: A responsive website template designed to help web developers/designers
-        market their services.
-    - title: Tempo
-      link: "#"
-      tagline: A responsive website template designed to help startups promote their
-        products or services and to attract users &amp; investors
-    - title: Atom
-      link: "#"
-      tagline: A comprehensive website template solution for startups/developers to
-        market their mobile apps.
-    - title: Delta
-      link: "#"
-      tagline: A responsive Bootstrap one page theme designed to help app developers
-        promote their mobile apps
-
 publications:
   title: Books and Publications
   intro: |
