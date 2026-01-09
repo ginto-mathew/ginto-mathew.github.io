@@ -47,43 +47,38 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Head of Service Management
+      time: 2019 - 2025
+      company: Natwest Boxed, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Member of the technology leadership team, reporting to the CTO, with end-to-end accountability for service management at the challenger SME bank and the Banking-as-a-Service proposition incubated by NatWest Group plc.
+          - Built and scaled a lean, highly efficient service management function and a Corporate IT services team, supporting rapid growth from zero to 150,000 customers within two years of launch, while staff scaled from 40 to 700+.
+          - Directed a world-class incident management team, delivering 24/7 on-call coverage and achieving industry-leading incident response times (<5 minutes) and 99.94% availability for critical services.
+          - Pioneered business continuity and IT resiliency enhancements, conducting zero-downtime disaster recovery tests in production environments that exceeded both regulatory requirements and industry benchmarks.
+          - Led the adoption of a comprehensive observability framework by engineering squads. Automated monitoring and alerting systems driving significant improvements in uptime and performance.
+          - Engaged with C-level executives, delivering key technology operational metrics on service availability, performance, and customer impact.
+          - Managed critical incident reporting for regulatory bodies and schemes including the PRA, ICO, Pay.UK, and Open Banking, ensuring compliance with stringent standards.
+          - Directed the performance management of suppliers and partners, driving service improvements through targeted performance enhancement programs.
+          - Led cost optimization and value improvement programs, including supplier/tooling switching, consolidations, and contract negotiations, achieving a 30% reduction in cost per staff member.
+          - Strengthened governance controls as part of the first line of defence, ensuring ownership of critical controls and maintaining a robust risk and compliance framework.
+    - role: Director- Service Strategy
+      time: 2018 - 2019
+      company: Innovation Link Ltd, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Established processes and built teams for incident/crisis management, IT resiliency (disaster recovery), and supplier management, ensuring compliance with stringent regulatory controls and attestation requirements for (Bo, RBS).
+          - Designed and implemented a cost-effective, innovative mission control centre, utilizing open-source observability tooling and alerting infrastructure to enhance monitoring and responsiveness.
+          - Played a pivotal role in integrating payment schemes including Pay.UK, Open Banking, and Mastercard for banking client, with a focus on governance controls, resiliency management, process testing, and external audits and attestations.
+          - Managed Business Intelligence (BI) and MI reporting, delivering actionable insights to stakeholders, including C-level executives.
+    - role: DevOps Delivery Manager
+      time: 2012 - 2018
+      company: Watford, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Provided consultancy services and successfully managed programs/projects for retail and e-commerce clients across Europe and North America, with a focus on IT infrastructure.
+          - Delivered measurable results, including the design, build, and transition of 53 brand websites for a major global retailer, and led multi-million-pound platform upgrades and hosting migrations.
+          - Implemented mission-critical e-commerce projects, enhanced infrastructure capacity, and ensured PCI-DSS compliance.
+          - Spearheaded migrations to cloud-based platforms (AWS) and conducted disaster recovery tests with zero downtime for two of UK's biggest grocery/retail chains.
+
+
 certifications:
   title: Certifications
   list:
