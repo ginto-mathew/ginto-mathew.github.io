@@ -12,27 +12,19 @@ sidebar:
   citizenship: British
   linkedin: ginto
 
-  interests:
+  languages:
     title: Specialties
     info:
-      - item: Engineering Skills
-        link: Deep knowledge of IT infrastructure and operations, including Cloud, Containerised platforms, networking, servers, storage, and security.
-      - item: Team Leadership
-        link: Proven experience in attracting, hiring, and developing top talent, including global, multi-location and outsourced environments.
-      - item: Risk & Security
-        link: Demonstrated expertise in cybersecurity and risk management frameworks including NIST and ISO27001.
-      - item: Communication
-        link: Expert in communicating with C-Suite executives, regulators, and stakeholders. 
-      - item: Expertise in Best Practises & Frameworks
-        link: Certified in ITIL, Prince2, Safe Agile, Cloud Architecture & Digital Transformation.         
-  languages:
-    title: Languages
-    info:
-      - idiom: English
-        level: Professional
-      - idiom: French
-        level: Beginner
-
+      - idiom: Engineering Skills
+        level: Deep knowledge of IT infrastructure and operations, including Cloud, Containerised platforms, networking, servers, storage, and security.
+      - idiom: Team Leadership
+        level: Proven experience in attracting, hiring, and developing top talent, including global, multi-location and outsourced environments.
+      - idiom: Risk & Security - Demonstrated expertise in cybersecurity and risk management frameworks including NIST and ISO27001.
+        level: 
+      - idiom: Communication - Expert in communicating with C-Suite executives, regulators, and stakeholders.
+        level:         
+      - idiom: Team Leadership
+        level: Proven experience in attracting, hiring, and developing top talent, including global, multi-location and outsourced environments.
 career-profile:
   title: Career Profile
   summary: >
