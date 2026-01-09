@@ -34,15 +34,12 @@ career-profile:
 education:
   title: Education
   info:
-    - degree: 
-      university: Fintech Program, Saïd Business School, University of Oxford
-      time: 2018 - 2019
-    - degree: 
-      university: MBA, Edinburgh Business School, Heriot-Watt University
-      time: 2016 - 2017
-    - degree: 
-      university: B.Tech, EEE, University of Calicut
-      time: 1995 - 1999
+    - degree: Saïd Business School, University of Oxford
+      university: Fintech Program, 2018 - 2019
+    - degree: Edinburgh Business School, Heriot-Watt University
+      university: MBA, 2016-2017
+    - degree: University of Calicut
+      university: B.Tech, Electrical Engineering, 1995 - 1999
 experiences:
   title: Experiences
   info:
