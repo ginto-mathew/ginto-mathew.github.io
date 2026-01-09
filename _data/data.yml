@@ -32,19 +32,19 @@ career-profile:
     Technology leader with over 20 years of expertise in Service Delivery,
     Operational Resiliency, and Project Management across the Fintech and
     E-commerce sectors in global organisations.
-education:
+Specialties:
   title: Specialties
   info:
-    - degree: Engineering Skills
-      university: Deep knowledge of IT infrastructure and operations, including Cloud, Containerised platforms, networking, servers, storage, and security.
-    - degree: Team Leadership
-      university: Proven experience in attracting, hiring, and developing top talent, including global, multi-location and outsourced environments.
-    - degree: Risk & Security
-      university: Demonstrated expertise in cybersecurity and risk management frameworks including NIST and ISO27001. 
-    - degree: Communication
-      university: Expert in communicating with C-Suite executives, regulators, and stakeholders. 
-    - degree: Expertise in Best Practises & Frameworks
-      university: Certified in ITIL, Prince2, Safe Agile, Cloud Architecture & Digital Transformation. 
+    - skill: Engineering Skills
+      skill description: Deep knowledge of IT infrastructure and operations, including Cloud, Containerised platforms, networking, servers, storage, and security.
+    - skill: Team Leadership
+      skill description: Proven experience in attracting, hiring, and developing top talent, including global, multi-location and outsourced environments.
+    - skill: Risk & Security
+      skill description: Demonstrated expertise in cybersecurity and risk management frameworks including NIST and ISO27001. 
+    - skill: Communication
+      skill description: Expert in communicating with C-Suite executives, regulators, and stakeholders. 
+    - skill: Expertise in Best Practises & Frameworks
+      skill description: Certified in ITIL, Prince2, Safe Agile, Cloud Architecture & Digital Transformation. 
 education:
   title: Education
   info:
