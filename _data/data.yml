@@ -47,7 +47,7 @@ experiences:
       time: 2026 - Present
       company: HMRC, London
       details: |
-        Responsible for the entire live service operation of HMRC's IT estate. Key Contributor to a once-in-a-generation transformation, balancing the need to build a modern, digital tax system with the imperative to maintain a stable, secure, and available service for millions of users.
+        Responsible for the entire live service operation of HMRC's IT estate. Key Contributor to a major digital transformation, balancing the need to build a modern, digital tax system with the imperative to maintain a stable, secure, and available service for millions of users.
           - Developing & Managing Live Service Strategy: Accountable for defining, communicating, and managing the strategic vision for HMRC's entire live IT service estate. This includes setting the direction for operational processes, governance, and controls to ensure the availability and performance of critical digital infrastructure.
           - Leading the Enterprise Live Service (ELS) function, a team of ~200 FTE, to ensure high standards of live service. Using metrics to hold directors, service, and platform owners accountable for operational performance, balancing traditional approaches for legacy systems with modern practices like Site Reliability Engineering (SRE) for digital platforms.
     - role: Head of Service Management
