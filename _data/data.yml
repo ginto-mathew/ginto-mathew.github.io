@@ -43,6 +43,13 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Deputy Director, Enterprise Services
+      time: 2026 - Present
+      company: HMRC, London
+      details: |
+        Responsible for the entire live service operation of HMRC's IT estate. Key Contributor to a once-in-a-generation transformation, balancing the need to build a modern, digital tax system with the imperative to maintain a stable, secure, and available service for millions of users.
+          - Developing & Managing Live Service Strategy: Accountable for defining, communicating, and managing the strategic vision for HMRC's entire live IT service estate. This includes setting the direction for operational processes, governance, and controls to ensure the availability and performance of critical digital infrastructure.
+          - Leading the Enterprise Live Service (ELS) function, a team of ~200 FTE, to ensure high standards of live service. Using metrics to hold directors, service, and platform owners accountable for operational performance, balancing traditional approaches for legacy systems with modern practices like Site Reliability Engineering (SRE) for digital platforms.
     - role: Head of Service Management
       time: 2019 - 2025
       company: Natwest Boxed, London
@@ -50,13 +57,8 @@ experiences:
         Member of the technology leadership team, reporting to the CTO, with end-to-end accountability for service management at the challenger SME bank and the Banking-as-a-Service proposition incubated by NatWest Group plc.
           - Built and scaled a lean, highly efficient service management function and a Corporate IT services team, supporting rapid growth from zero to 150,000 customers within two years of launch, while staff scaled from 40 to 700+.
           - Directed a world-class incident management team, delivering 24/7 on-call coverage and achieving industry-leading incident response times (<5 minutes) and 99.94% availability for critical services.
-          - Pioneered business continuity and IT resiliency enhancements, conducting zero-downtime disaster recovery tests in production environments that exceeded both regulatory requirements and industry benchmarks.
-          - Led the adoption of a comprehensive observability framework by engineering squads. Automated monitoring and alerting systems driving significant improvements in uptime and performance.
-          - Engaged with C-level executives, delivering key technology operational metrics on service availability, performance, and customer impact.
           - Managed critical incident reporting for regulatory bodies and schemes including the PRA, ICO, Pay.UK, and Open Banking, ensuring compliance with stringent standards.
-          - Directed the performance management of suppliers and partners, driving service improvements through targeted performance enhancement programs.
-          - Led cost optimization and value improvement programs, including supplier/tooling switching, consolidations, and contract negotiations, achieving a 30% reduction in cost per staff member.
-          - Strengthened governance controls as part of the first line of defence, ensuring ownership of critical controls and maintaining a robust risk and compliance framework.
+          - Directed the performance management and cost optimization of suppliers and partners, driving service improvements through targeted performance enhancement programs.
     - role: Director- Service Strategy
       time: 2018 - 2019
       company: Innovation Link Ltd, London
